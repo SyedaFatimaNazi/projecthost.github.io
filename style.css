@@ -1,0 +1,16 @@
+.navbarlogo{
+    width: 40px;
+    height: 30px;
+}
+.carousel-item{
+    height: 500px;
+}
+.carousel-item img{
+    object-fit: contain;
+}
+.about img{
+    width: 100%;
+}
+.card img{
+    height: 250px;
+}
